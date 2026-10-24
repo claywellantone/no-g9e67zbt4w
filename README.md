@@ -1,3 +1,3 @@
-# init-34
+# setup-be
 
-Small check helpers used by our prepare pipeline.
+Small configure helpers used by our verify pipeline.

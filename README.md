@@ -1,3 +1,3 @@
-# setup-be
+# prepare-a2
 
-Small configure helpers used by our verify pipeline.
+Small setup helpers used by our start pipeline.
